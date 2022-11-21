@@ -94,7 +94,12 @@ header a.active {
 	font-weight: bold;
 }
 
-header,section {
+header {
+	padding: 1rem 3rem 1rem 1rem;
+}
+
+
+section {
 	padding:1rem;
 }
 
