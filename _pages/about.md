@@ -3,26 +3,8 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+I work across the stack; primarily in the JavaScript ecosystem. Outside of work I have a soft spot for Ruby and Python. 
 
-### Features
+The aim of this site is to learn in public and share thoughts on building software and the journey to [become a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard/).
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+In my free time I run up hills, ride my bike and lift weights.
