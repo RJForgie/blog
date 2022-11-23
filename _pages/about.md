@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Name: Ryan Forgie 
-Location: Edinburgh, Scotland
+- Name: Ryan Forgie
+- Location: Edinburgh, Scotland
 
 I work across the stack; primarily in the JavaScript ecosystem. Outside of work I have a soft spot for Ruby and Python. 
 
