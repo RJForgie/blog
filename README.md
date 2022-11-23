@@ -1,5 +1,5 @@
 
-[![pages-build-deployment](https://github.com/RJForgie/rjforgie.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/RJForgie/rjforgie.github.io/actions/workflows/pages/pages-build-deployment)
+[![GitHub Pages Deploy](https://github.com/RJForgie/rjforgie.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/RJForgie/rjforgie.github.io/actions/workflows/pages/pages-build-deployment)
 
 
 # Software engineering blog.
