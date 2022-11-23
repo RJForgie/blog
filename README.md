@@ -4,7 +4,7 @@
 
 # Software engineering blog.
 
-The aim of this site is to learn in public and share thoughts on building software and the journey to [become a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard/).
+The aim of this site is to learn in public, share thoughts on building software and document the journey to [become a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard/).
 
 
 ## Run Locally
