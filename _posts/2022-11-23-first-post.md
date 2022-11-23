@@ -7,7 +7,7 @@ comments: false
 tags: [misc]
 ---
 
-I'm Ryan Forgie and I am a software engineer who lives in Edinburgh, Scotland.
+Hello i'm Ryan 👋
 
 I work across the web stack; primarily in the JavaScript ecosystem. Outside of work I have a soft spot for Ruby and Python. 
 
