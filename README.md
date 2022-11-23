@@ -39,6 +39,6 @@ Start the server
 
 This project is deployed to [Github Pages](https://pages.github.com/) via Github Actions.
 
-# Engineering blog
+## Acknowledgements
 
 Theme based on [Sidey from Ronv](https://github.com/ronv/sidey)
