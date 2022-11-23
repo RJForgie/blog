@@ -2,7 +2,7 @@
 [![pages-build deployment](https://github.com/RJForgie/rjforgie.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/RJForgie/rjforgie.github.io/actions/workflows/pages/pages-build-deployment)
 
 
-# Software engineering blog.
+# Software engineering blog
 
 The aim of this site is to learn in public, share thoughts on building software and document the journey to [become a wizard](https://jvns.ca/blog/so-you-want-to-be-a-wizard/).
 
